@@ -7,6 +7,16 @@ Proposal:
 Despite an increase in car usage in the UK (Shale-Hester, 2021), the statistics gathered over the years have confirmed that the main contributor to road accidents stems from bad weather conditions (Davies, 2017). However, previous evidence has shown UK holidays such as Christmas day can also contribute to the increase of road accidents and, therefore, throws light into alternative reasons for the gradual rise in road accidents (Higgs, 2021). 
 With the use of relational database SQL, this investigation will look into the possible interactions between car usage/type (vehicle info data), weather conditions (API data set) and road accidents taken place on Valentine's Day 2014 (valentine's day data 2014) in cities such as London (accident cities csv & isoa codes). 
 
+#### Data Cleansing
+
+The vehicle information and traffic data was uploaded from the following Kaggle pages:
+
+ - [Traffic Flow - daveianhickey](https://www.kaggle.com/daveianhickey/2000-16-traffic-flow-england-scotland-wales)
+ - [Road Safety Accidents and Vehicles - tsiaras](https://www.kaggle.com/tsiaras/uk-road-safety-accidents-and-vehicles)
+
+The vehicle info file was then cleaned using Python to only contain data for the accident indices contained in the [valentines_day_2014.csv]("https://github.com/GJeffries/Project-2/blob/main/JF%20-%20File%20Cleansing/valentines_day_2014.csv") file. To clean the data, we created a dataframe containing only the accident indices needed, then performed a merge.
+
+The citipy package was then used on the remaining latitude and longitude data to collate a list of city names for scraping the relevant weather information. Two lists were created in a loop: one with a returned value for every row (for subsequent addition to the main table) and one to only contain unique values for the API calls.
 
 The process of collecting the API weather data:
 
