@@ -1,0 +1,268 @@
+Accident_Index,Location_Easting_OSGR,Location_Northing_OSGR,Longitude,Latitude,Accident_Severity,Number_of_Vehicles,Number_of_Casualties,Time,Road_Type,Speed_limit,Junction_Control,Light_Conditions,Weather_Conditions,Road_Surface_Conditions,Special_Conditions_at_Site,Carriageway_Hazards,Did_Police_Officer_Attend_Scene_of_Accident,LSOA_of_Accident_Location
+201401BS70078,525450,179980,-0.193863,51.504785,3,1,1,14:49,Single carriageway,30,Giveway or uncontrolled,Daylight: Street light present,Raining without high winds,Wet/Damp,None,None,Yes,E01002826
+201401BS70080,524860,179170,-0.202646,51.497636,3,1,1,18:28,Single carriageway,30,Giveway or uncontrolled,Darkness: Street lights present and lit,Raining without high winds,Wet/Damp,None,None,Yes,E01002814
+201401CW10146,527920,181970,-0.157572,51.522116,3,2,1,00:50,Dual carriageway,20,Automatic traffic signal,Darkness: Street lights present and lit,Fine without high winds,Dry,None,None,Yes,E01004660
+201401CW10147,526840,182460,-0.172955,51.526763,3,1,1,01:59,Single carriageway,30,Giveway or uncontrolled,Darkness: Street lights present and lit,Fine without high winds,Dry,None,None,Yes,E01004728
+201401CW10155,526790,181990,-0.173844,51.52255,3,2,1,06:56,Single carriageway,30,Stop Sign,Daylight: Street light present,Fine without high winds,Dry,None,None,Yes,E01033604
+201401CW10156,526410,181730,-0.179412,51.520298,3,2,1,07:18,Dual carriageway,40,0,Daylight: Street light present,Fine without high winds,Wet/Damp,None,None,Yes,E01004702
+201401CW10161,529400,180710,-0.136714,51.510455,3,1,1,14:55,One way street,30,Giveway or uncontrolled,Daylight: Street light present,Raining without high winds,Wet/Damp,None,None,Yes,E01033595
+201401CW10162,530230,178980,-0.125399,51.494718,3,2,1,18:05,Roundabout,30,Giveway or uncontrolled,Darkness: Street lights present and lit,Raining without high winds,Wet/Damp,None,None,Yes,E01004733
+201401EK40073,528900,183860,-0.142763,51.538878,3,1,1,15:00,Single carriageway,30,Automatic traffic signal,Daylight: Street light present,Raining without high winds,Wet/Damp,None,None,Yes,E01000863
+201401EK40074,528750,185540,-0.144311,51.55401,3,2,1,21:30,Single carriageway,30,Giveway or uncontrolled,Darkness: Street lights present and lit,Raining with high winds,Wet/Damp,None,None,Yes,E01000928
+201401EO40067,531740,183650,-0.101915,51.536336,3,1,1,22:15,Single carriageway,20,Giveway or uncontrolled,Darkness: Street lights present and lit,Raining with high winds,Wet/Damp,None,None,Yes,E01002794
+201401EO40079,530920,186000,-0.112858,51.557645,3,2,1,19:10,Single carriageway,30,Automatic traffic signal,Darkness: Street lights present and lit,Other,Wet/Damp,None,None,No,E01002751
+201401EO40128,531500,186580,-0.104279,51.562723,2,1,1,17:39,Single carriageway,30,Giveway or uncontrolled,Darkness: Street lights present and lit,Raining with high winds,Wet/Damp,None,None,Yes,E01002748
+201401FH10057,524580,178400,-0.20695,51.490777,3,2,1,16:05,Single carriageway,30,Automatic traffic signal,Daylight: Street light present,Fine without high winds,Dry,None,None,No,E01001914
+201401FH10060,525570,175770,-0.193631,51.466922,3,1,1,08:00,Single carriageway,30,Giveway or uncontrolled,Daylight: Street light present,Fine with high winds,Dry,None,None,Yes,E01001934
+201401GD10104,533970,184810,-0.06934,51.546236,3,1,1,00:21,Single carriageway,30,Automatic traffic signal,Darkness: Street lights present but unlit,Fine with high winds,Dry,None,None,Yes,E01001749
+201401GD10108,533370,184210,-0.078215,51.540986,3,2,1,15:16,Single carriageway,30,0,Daylight: Street light present,Raining without high winds,Wet/Damp,None,None,Yes,E01001750
+201401HT20114,533720,180740,-0.074487,51.50972,3,2,1,09:40,Single carriageway,30,Automatic traffic signal,Daylight: Street light present,Fine without high winds,Dry,None,None,Yes,E01004293
+201401HT20116,536940,181250,-0.027918,51.513532,2,1,1,19:10,Single carriageway,30,0,Darkness: Street lights present and lit,Fine without high winds,Dry,None,None,No,E01004252
+201401HT20125,538320,180560,-0.008314,51.506996,3,2,1,20:25,Roundabout,30,Giveway or uncontrolled,Darkness: Street lights present and lit,Raining with high winds,Wet/Damp,None,None,Yes,E01032780
+201401HT20130,537110,181010,-0.025563,51.511334,3,1,1,17:39,Single carriageway,30,Giveway or uncontrolled,Darkness: Street lights present and lit,Raining with high winds,Wet/Damp,None,None,Yes,E01004253
+201401HT20218,536790,181660,-0.029919,51.517253,3,1,1,13:10,Single carriageway,30,Automatic traffic signal,Daylight: Street light present,Fine without high winds,Dry,None,None,Yes,E01004273
+201401JC30071,536060,189060,-0.037574,51.583928,3,2,1,14:46,Single carriageway,30,Giveway or uncontrolled,Daylight: Street light present,Raining without high winds,Wet/Damp,None,Pedestrian in carriageway (not injured),Yes,E01004391
+201401JC30072,539130,187160,0.005957,51.566105,3,2,1,19:15,Dual carriageway,50,0,Darkness: Street lights present and lit,Fine without high winds,Wet/Damp,None,None,Yes,E01004440
+201401JC30079,538010,187980,-0.00987,51.573749,3,1,1,19:30,Single carriageway,30,Giveway or uncontrolled,Darkness: Street lights present and lit,Raining with high winds,Wet/Damp,None,None,Yes,E01033153
+201401JI40156,547400,188740,0.125853,51.578203,3,2,3,20:15,Single carriageway,30,Giveway or uncontrolled,Darkness: Street lights present and lit,Fine without high winds,Dry,None,None,Yes,E01003664
+201401KD50061,556610,188990,0.258774,51.577967,3,3,1,07:45,Dual carriageway,70,0,Daylight: Street light present,Fine without high winds,Dry,None,None,Yes,E01002259
+201401KD50082,553090,187290,0.207275,51.563659,3,3,1,09:35,Single carriageway,30,Giveway or uncontrolled,Daylight: Street light present,Fine without high winds,Dry,None,None,Yes,E01002321
+201401KF60076,539240,184960,0.006672,51.546309,3,2,1,23:58,Single carriageway,30,Giveway or uncontrolled,Darkness: Street lights present and lit,Fine without high winds,Dry,None,None,No,E01003549
+201401KF60100,540430,183150,0.023101,51.52975,3,1,1,23:45,Single carriageway,30,Giveway or uncontrolled,Darkness: Street lights present and lit,Fine without high winds,Dry,None,None,No,E01003595
+201401KF60119,540330,182300,0.021322,51.522136,3,2,1,08:12,Single carriageway,30,Giveway or uncontrolled,Daylight: Street light present,Fine without high winds,Dry,None,None,No,E01003499
+201401KF60140,538670,184010,-0.001917,51.537912,3,1,2,10:51,Dual carriageway,30,Giveway or uncontrolled,Daylight: Street light present,Fine without high winds,Dry,None,None,Yes,E01033583
+201401KF60153,542120,185280,0.048308,51.548467,3,1,1,08:05,Single carriageway,30,Giveway or uncontrolled,Daylight: Street light present,Fine without high winds,Dry,None,None,No,E01003587
+201401KF60161,539790,181840,0.013361,51.518137,3,2,1,16:00,Single carriageway,30,Automatic traffic signal,Daylight: Street light present,Fine without high winds,Dry,None,None,Yes,E01003502
+201401KG70046,548460,189140,0.141308,51.581519,3,3,2,09:55,Single carriageway,30,0,Daylight: Street light present,Raining without high winds,Wet/Damp,None,None,Yes,E01000030
+201401LX50128,530830,179860,-0.116434,51.502488,3,2,1,13:35,Dual carriageway,30,Automatic traffic signal,Daylight: Street light present,Raining without high winds,Wet/Damp,None,None,Yes,E01003013
+201401LX50193,532010,174320,-0.101512,51.452427,3,1,1,12:44,Single carriageway,30,Automatic traffic signal,Daylight: Street light present,Fine without high winds,Dry,None,None,No,E01003074
+201401PL60101,540410,172780,0.018693,51.436569,3,1,7,10:02,Single carriageway,30,Giveway or uncontrolled,Daylight: Street light present,Fine without high winds,Wet/Damp,None,None,Yes,E01003263
+201401PL60124,537810,172750,-0.018701,51.436937,3,1,1,11:23,Single carriageway,30,Giveway or uncontrolled,Daylight: Street light present,Raining without high winds,Wet/Damp,None,None,Yes,E01003221
+201401PY20078,540410,168620,0.017046,51.399186,3,2,1,13:45,Single carriageway,30,Giveway or uncontrolled,Daylight: Street light present,Fine without high winds,Dry,None,None,No,E01000670
+201401PY20079,544240,167420,0.071579,51.387443,3,2,1,14:36,Single carriageway,30,Giveway or uncontrolled,Daylight: Street light present,Raining with high winds,Wet/Damp,None,None,Yes,E01000811
+201401PY20250,541680,169320,0.03557,51.405161,3,2,1,07:25,Single carriageway,30,Giveway or uncontrolled,Daylight: Street light present,Fine without high winds,Dry,None,None,Yes,E01000647
+201401QK50077,519440,183720,-0.279149,51.539699,3,2,1,13:30,Single carriageway,30,Automatic traffic signal,Daylight: Street light present,Fine without high winds,Dry,None,None,No,E01000600
+201401QK50084,522140,183050,-0.240468,51.533101,3,2,1,12:26,Single carriageway,30,Automatic traffic signal,Daylight: Street light present,Raining without high winds,Wet/Damp,None,None,Yes,E01000535
+201401QK50113,519900,184310,-0.272318,51.544905,3,2,1,18:47,Slip road,30,Giveway or uncontrolled,Darkness: Street lights present and lit,Raining without high winds,Wet/Damp,None,None,No,E01000605
+201401RG40084,540900,174660,0.026486,51.453341,3,2,1,23:49,Single carriageway,30,0,Darkness: Street lights present and lit,Fine without high winds,Dry,None,None,Yes,E01001659
+201401SX20095,522670,188950,-0.230774,51.586011,3,2,2,01:50,Dual carriageway,40,Automatic traffic signal,Darkness: Street lighting unknown,Fine without high winds,Wet/Damp,None,None,Yes,E01000237
+201401SX20114,525220,189230,-0.193886,51.587967,3,2,1,14:45,Dual carriageway,40,0,Daylight: Street light present,Raining with high winds,Wet/Damp,None,None,Yes,E01000211
+201401SX20129,519040,192420,-0.281967,51.617975,3,2,1,14:00,Single carriageway,30,Giveway or uncontrolled,Daylight: Street light present,Raining with high winds,Wet/Damp,None,None,Yes,E01000190
+201401SX20151,527310,189050,-0.163799,51.585881,3,2,1,07:25,Single carriageway,30,Giveway or uncontrolled,Daylight: Street light present,Fine without high winds,Dry,None,None,Yes,E01000208
+201401SX20285,520340,191500,-0.263514,51.60943,3,2,2,18:00,Single carriageway,30,0,Darkness: Street lighting unknown,Raining with high winds,Wet/Damp,None,None,Yes,E01000132
+201401TD00006,522040,166150,-0.247736,51.381234,1,2,1,11:57,Single carriageway,30,0,Daylight: Street light present,Raining without high winds,Wet/Damp,None,None,Yes,E01002978
+201401TD00008,530550,181530,-0.119848,51.51756,1,1,4,23:04,Single carriageway,30,0,Darkness: Street lights present and lit,Fine without high winds,Dry,None,None,Yes,E01000914
+201401TW60065,520890,175440,-0.261086,51.464975,3,2,1,19:30,Single carriageway,30,0,Darkness: Street lights present and lit,Raining with high winds,Wet/Damp,None,None,Yes,E01003809
+201401TW60066,517940,174960,-0.303694,51.461282,2,1,1,10:00,Dual carriageway,30,Automatic traffic signal,Daylight: Street light present,Raining with high winds,Wet/Damp,None,None,Yes,E01003876
+201401TW60117,518510,175060,-0.295459,51.462062,3,2,1,21:15,Single carriageway,30,Giveway or uncontrolled,Darkness: Street lights present and lit,Raining with high winds,Wet/Damp,None,None,Yes,E01003874
+201401TX20108,510420,178280,-0.410859,51.492639,3,2,1,19:45,Dual carriageway,50,Automatic traffic signal,Daylight: Street light present,Fine without high winds,Dry,None,None,Yes,E01002633
+201401TX20110,516310,176740,-0.326561,51.477618,3,2,1,08:42,Single carriageway,30,Giveway or uncontrolled,Daylight: Street light present,Raining without high winds,Wet/Damp,None,None,Yes,E01002682
+201401TX20111,510900,178130,-0.403995,51.491197,3,1,1,14:40,Dual carriageway,70,0,Daylight: Street light present,Raining with high winds,Wet/Damp,None,None,Yes,E01002637
+201401TX20113,512850,177210,-0.376213,51.482542,3,1,1,08:45,Single carriageway,30,Giveway or uncontrolled,Daylight: Street light present,Raining without high winds,Wet/Damp,None,None,Yes,E01002618
+201401VK30049,519590,166080,-0.282948,51.381125,3,1,1,11:29,Dual carriageway,30,0,Daylight: Street light present,Raining without high winds,Wet/Damp,None,None,Yes,E01002919
+201401VW40058,524120,166120,-0.217873,51.380513,3,1,1,14:13,Single carriageway,30,Giveway or uncontrolled,Daylight: Street light present,Raining with high winds,Wet/Damp,None,None,Yes,E01003420
+201401WW50108,525990,174520,-0.188033,51.455595,3,2,1,16:12,Single carriageway,30,Giveway or uncontrolled,Daylight: Street light present,Raining without high winds,Wet/Damp,None,None,Yes,E01004512
+201401WW50110,527600,171310,-0.166029,51.426386,3,1,1,16:58,Single carriageway,30,Giveway or uncontrolled,Darkness: Street lights present and lit,Raining with high winds,Wet/Damp,None,None,Yes,E01004525
+201401WW50112,526100,175230,-0.186198,51.461951,3,2,1,18:03,Roundabout,30,Automatic traffic signal,Darkness: Street lights present and lit,Raining with high winds,Wet/Damp,None,None,Yes,E01004514
+201401WW50113,526610,175770,-0.178667,51.466691,3,1,1,17:20,Single carriageway,30,Automatic traffic signal,Darkness: Street lights present and lit,Raining with high winds,Wet/Damp,None,None,Yes,E01033101
+201401WW50136,526070,175230,-0.186629,51.461958,3,1,1,23:26,Dual carriageway,30,Automatic traffic signal,Darkness: Street lights present and lit,Raining with high winds,Wet/Damp,None,None,Yes,E01004509
+201401XD80125,514750,183820,-0.346712,51.54157,3,2,1,12:34,Single carriageway,30,Giveway or uncontrolled,Daylight: Street light present,Raining without high winds,Wet/Damp,None,None,No,E01001272
+201401XD80128,520070,180210,-0.271264,51.50802,3,1,1,12:25,Single carriageway,30,Giveway or uncontrolled,Daylight: Street light present,Raining without high winds,Wet/Damp,None,None,Yes,E01001202
+201401XH30077,511270,185540,-0.396329,51.557726,3,2,1,17:40,Single carriageway,30,Automatic traffic signal,Daylight: Street light present,Fine without high winds,Dry,None,None,No,E01002497
+201401XH30086,505710,190230,-0.475091,51.60095,3,1,1,23:19,Single carriageway,30,0,Darkeness: No street lighting,Raining with high winds,Wet/Damp,None,None,Yes,E01002441
+201401XH30110,509370,178900,-0.425786,51.498416,3,2,3,14:58,Single carriageway,30,Giveway or uncontrolled,Daylight: Street light present,Fine without high winds,Wet/Damp,None,None,Yes,E01002489
+201401XH30135,507480,180990,-0.452366,51.517563,3,2,2,22:05,Roundabout,30,Giveway or uncontrolled,Darkness: Street lights present and lit,Raining without high winds,Wet/Damp,None,None,No,E01002549
+201401YE80096,535080,198200,-0.048187,51.666298,3,2,1,09:10,Single carriageway,40,Giveway or uncontrolled,Daylight: Street light present,Raining without high winds,Wet/Damp,None,None,Yes,E01001549
+201401YR90090,532000,187590,-0.096691,51.571682,3,2,1,12:18,Single carriageway,30,Giveway or uncontrolled,Daylight: Street light present,Raining without high winds,Wet/Damp,None,None,Yes,E01001813
+201401YR90100,530870,190120,-0.112045,51.594682,3,2,1,18:45,Single carriageway,30,Giveway or uncontrolled,Darkness: Street lights present and lit,Unknown,Wet/Damp,None,None,No,E01002029
+201401ZD30113,535370,165660,-0.056488,51.37381,3,2,1,17:05,Dual carriageway,30,Giveway or uncontrolled,Daylight: Street light present,Fine without high winds,Dry,None,None,Yes,E01001062
+201401ZD30118,535630,164910,-0.053041,51.367008,3,2,1,08:02,Single carriageway,30,Giveway or uncontrolled,Daylight: Street light present,Raining without high winds,Wet/Damp,None,None,Yes,E01001064
+201401ZT80044,526940,164590,-0.177919,51.36614,3,2,1,08:25,Single carriageway,30,Giveway or uncontrolled,Daylight: Street light present,Raining without high winds,Wet/Damp,None,None,No,E01004103
+201401ZT80051,529700,163910,-0.138542,51.359405,3,2,1,18:07,Single carriageway,30,Giveway or uncontrolled,Darkness: Street lights present and lit,Raining with high winds,Wet/Damp,None,None,Yes,E01004086
+2.01E+12,319190,469430,-3.237714,54.114375,3,1,1,19:04,Single carriageway,20,Giveway or uncontrolled,Daylight: Street light present,Fine without high winds,Dry,None,None,Yes,E01019156
+201404CJ14028,344047,411337,-2.846905,53.595599,3,1,1,08:25,Single carriageway,30,Giveway or uncontrolled,Daylight: Street light present,Fine without high winds,Dry,None,None,Yes,E01025487
+201404CJ14038,341312,408490,-2.887689,53.569713,3,2,1,09:30,Single carriageway,30,Giveway or uncontrolled,Daylight: Street light present,Fine without high winds,Dry,None,None,Yes,E01025518
+201404DA14016,352447,429986,-2.722861,53.76404,3,2,1,10:06,Dual carriageway,30,Automatic traffic signal,Daylight: Street light present,Fine with high winds,Dry,Roadworks,None,Yes,E01025232
+201404EA14063,369020,427340,-2.471195,53.74151,3,1,1,15:15,Single carriageway,30,Giveway or uncontrolled,Daylight: Street light present,Raining without high winds,Wet/Damp,None,None,Yes,E01012631
+201404EL14020,373713,427347,-2.400043,53.741832,3,2,3,17:30,Single carriageway,30,Giveway or uncontrolled,Darkness: Street lights present and lit,Raining with high winds,Wet/Damp,None,None,Yes,E01025076
+201404EN14012,377330,445037,-2.346513,53.900999,2,1,1,18:55,Single carriageway,60,0,Darkeness: No street lighting,Fine without high winds,Wet/Damp,None,None,Yes,E01025321
+201404FA14020,382831,432580,-2.262092,53.789248,3,3,1,18:15,Roundabout,30,Giveway or uncontrolled,Darkness: Street lights present and lit,Fine without high winds,Dry,None,None,Yes,E01024907
+201405AA01662,328150,392053,-3.082635,53.420354,3,2,3,14:05,Dual carriageway,40,Giveway or uncontrolled,Daylight: Street light present,Fine with high winds,Dry,None,None,Yes,E01007210
+201405BB01604,333765,397532,-2.999313,53.470331,3,2,1,22:10,Single carriageway,30,Giveway or uncontrolled,Darkness: Street lighting unknown,Raining with high winds,Wet/Damp,None,None,No,E01006977
+201405CC01621,341579,399045,-2.881892,53.484856,3,1,1,09:05,Single carriageway,30,0,Daylight: Street light present,Fine without high winds,Dry,None,None,Yes,E01006495
+201405DD01617,349608,393672,-2.760043,53.437396,2,1,1,21:51,One way street,30,Giveway or uncontrolled,Darkness: Street lights present and lit,Raining with high winds,Wet/Damp,None,None,Yes,E01006903
+201405DD01786,352583,391786,-2.714978,53.420721,3,3,1,19:15,Single carriageway,30,Automatic traffic signal,Darkness: Street lights present and lit,Raining with high winds,Wet/Damp,None,None,Yes,E01006908
+201405DD01864,353847,395156,-2.696455,53.451123,3,1,1,14:30,Single carriageway,30,Giveway or uncontrolled,Daylight: Street light present,Fine without high winds,Dry,None,None,No,E01006821
+201405EE01618,336892,392982,-2.951297,53.429823,3,2,1,17:15,Single carriageway,30,Giveway or uncontrolled,Daylight: Street light present,Raining with high winds,Wet/Damp,None,None,Yes,E01006545
+201405EE01668,334168,390230,-2.991713,53.404756,3,1,1,15:05,Single carriageway,30,0,Daylight: Street light present,Raining without high winds,Wet/Damp,None,None,No,E01033752
+201405EE01737,339100,390716,-2.917631,53.409717,2,2,1,20:30,Single carriageway,30,Giveway or uncontrolled,Darkness: Street lights present and lit,Raining with high winds,Wet/Damp,None,None,Yes,E01006716
+201405FF01678,341120,387385,-2.886625,53.380009,3,2,1,18:04,Dual carriageway,40,Automatic traffic signal,Darkness: Street lights present and lit,Raining without high winds,Wet/Damp,None,None,Yes,E01006532
+201405FF03073,336790,389785,-2.95219,53.401078,3,2,1,14:30,Single carriageway,30,Giveway or uncontrolled,Daylight: Street light present,Raining without high winds,Wet/Damp,None,None,Yes,E01006751
+201406A083183,387990,400188,-2.182523,53.498244,3,1,2,02:48,Single carriageway,30,Giveway or uncontrolled,Darkness: Street lights present and lit,Fine without high winds,Dry,None,None,Yes,E01005261
+201406F083764,378145,398492,-2.330814,53.482681,3,1,1,10:05,Single carriageway,30,0,Daylight: Street light present,Raining with high winds,Wet/Damp,None,None,No,E01005599
+201406F083778,373786,402626,-2.396846,53.519639,3,2,1,21:00,Single carriageway,30,Giveway or uncontrolled,Darkness: Street lights present and lit,Raining with high winds,Wet/Damp,None,None,No,E01005712
+201406N083746,382095,402370,-2.271513,53.517688,3,2,1,13:25,Single carriageway,30,0,Daylight: Street light present,Raining without high winds,Wet/Damp,None,None,Yes,E01005044
+201406Q083040,391586,405441,-2.128457,53.545531,3,1,1,11:25,Single carriageway,30,0,Daylight: Street light present,Fine with high winds,Dry,None,None,Yes,E01005353
+201406X083031,379747,418274,-2.307962,53.660553,3,3,1,16:07,Dual carriageway,70,0,Daylight: Street light present,Fine without high winds,Wet/Damp,None,None,Yes,E01005015
+201411SJ03314,430559,515625,-1.529241,54.534993,3,2,1,15:30,Single carriageway,30,0,Daylight: Street light present,Raining without high winds,Wet/Damp,None,None,Yes,E01012307
+201411SK03254,427613,525036,-1.573887,54.619736,3,2,1,20:55,Single carriageway,30,Giveway or uncontrolled,Darkness: Street lights present and lit,Raining with high winds,Wet/Damp,None,None,No,E01020832
+2.01E+137,403250,438631,-1.952091,53.843912,3,2,1,03:05,Single carriageway,30,Giveway or uncontrolled,Darkeness: No street lighting,Raining without high winds,Wet/Damp,None,None,Yes,E01010863
+20141312E0364,410793,415069,-1.838262,53.632032,3,1,1,09:30,Single carriageway,30,0,Daylight: Street light present,Fine without high winds,Dry,None,None,No,E01011154
+20141312E0547,405130,416737,-1.923874,53.64711,3,1,1,11:35,Dual carriageway,70,0,Daylight: Street light present,Raining without high winds,Wet/Damp,None,None,Yes,E01011070
+20141312E0800,411923,436879,-1.82034,53.82804,3,2,1,08:00,Roundabout,30,Giveway or uncontrolled,Daylight: Street light present,Fine without high winds,Wet/Damp,None,None,Yes,E01010587
+20141312E0841,413110,434415,-1.802411,53.805865,3,2,2,14:20,Single carriageway,30,Giveway or uncontrolled,Daylight: Street light present,Raining with high winds,Wet/Damp,None,None,Yes,E01010805
+20141312E1065,442837,425010,-1.35233,53.719744,3,1,1,15:25,Single carriageway,30,0,Daylight: Street light present,Fine without high winds,Dry,None,None,No,E01011756
+20141312E1076,409647,424967,-1.855288,53.72102,3,1,1,16:20,Single carriageway,30,Automatic traffic signal,Daylight: Street light present,Raining without high winds,Wet/Damp,None,None,Yes,E01010994
+20141312E1078,417044,420078,-1.74346,53.676889,3,3,1,16:20,Single carriageway,30,Giveway or uncontrolled,Daylight: Street light present,Raining without high winds,Wet/Damp,None,None,Yes,E01011103
+20141312E1274,416370,436872,-1.752778,53.827857,3,3,1,18:15,Single carriageway,30,Giveway or uncontrolled,Darkness: Street lights present and lit,Raining without high winds,Wet/Damp,None,None,Yes,E01010775
+20141312E1317,412348,415819,-1.814718,53.638739,3,2,1,18:40,Single carriageway,30,0,Darkness: Street lights present and lit,Raining without high winds,Wet/Damp,None,None,Yes,E01011237
+20141312E1363,415878,418269,-1.761203,53.660666,3,2,1,07:00,Single carriageway,30,Giveway or uncontrolled,Darkness: Street lights present and lit,Fine without high winds,Dry,None,None,No,E01011106
+20141312E1742,418518,433608,-1.72034,53.798449,3,2,4,23:05,Single carriageway,30,Automatic traffic signal,Darkness: Street lights present and lit,Raining without high winds,Wet/Damp,Roadworks,None,Yes,E01010622
+20141312G0945,411954,416361,-1.820656,53.64362,2,1,1,18:00,One way street,30,0,Darkness: Street lights present and lit,Unknown,Wet/Damp,None,None,No,E01011234
+20141312H1038,412876,433283,-1.806011,53.795697,3,2,1,11:30,Single carriageway,30,0,Daylight: Street light present,Fine without high winds,Wet/Damp,None,None,No,E01010628
+201414A021214,453674,396280,-1.193057,53.460531,3,2,1,07:15,Single carriageway,60,0,Daylight: Street light present,Raining with high winds,Frost/Ice,None,None,Yes,E01007545
+201414A021814,455744,404610,-1.160406,53.535183,3,2,1,22:10,Dual carriageway,40,Automatic traffic signal,Darkness: Street lights present and lit,Raining with high winds,Wet/Damp,None,None,Yes,E01007582
+201414A021914,460599,403882,-1.087304,53.528104,3,3,2,19:30,Single carriageway,40,Giveway or uncontrolled,Darkness: Street lights present and lit,Raining without high winds,Wet/Damp,None,None,Yes,E01007566
+201414A023414,462489,398452,-1.059876,53.479082,3,1,1,07:30,Single carriageway,30,0,Daylight: Street light present,Fine without high winds,Dry,None,None,Yes,E01007596
+201414C017114,451748,392099,-1.222749,53.423145,3,2,1,16:10,Single carriageway,30,Giveway or uncontrolled,Daylight: Street light present,Fine without high winds,Frost/Ice,None,None,No,E01007761
+201414C020114,437974,396293,-1.429507,53.462011,3,2,1,20:00,Single carriageway,30,Giveway or uncontrolled,Darkness: Street lights present and lit,Unknown,Dry,None,None,Yes,E01007808
+201414K036414,436948,387435,-1.445996,53.382465,3,1,1,22:39,Single carriageway,20,Giveway or uncontrolled,Darkness: Street lights present and lit,Raining without high winds,Wet/Damp,None,None,Yes,E01007885
+201414K037314,438859,389490,-1.417015,53.4008,3,2,1,16:30,Single carriageway,30,0,Daylight: Street light present,Fine without high winds,Dry,None,None,Yes,E01007904
+201414K039514,438013,383010,-1.430516,53.342617,3,2,1,16:50,Dual carriageway,40,Giveway or uncontrolled,Daylight: Street light present,Raining without high winds,Wet/Damp,None,None,Yes,E01008007
+201414K039614,436652,382510,-1.451015,53.338218,3,2,1,14:55,Single carriageway,30,Giveway or uncontrolled,Daylight: Street light present,Raining without high winds,Wet/Damp,None,None,Yes,E01008078
+201414K050514,440553,386583,-1.391911,53.374544,2,1,1,10:47,Dual carriageway,30,Giveway or uncontrolled,Daylight: Street light present,Fine without high winds,Dry,None,None,Yes,E01007912
+2014160A00431,526083,408285,-0.098108,53.556042,3,2,2,12:30,Single carriageway,30,Giveway or uncontrolled,Daylight: Street light present,Fine with high winds,Dry,None,None,Yes,E01013204
+2014160A00521,527698,410605,-0.072795,53.576493,3,1,1,18:15,Single carriageway,30,Giveway or uncontrolled,Darkness: Street lights present and lit,Raining with high winds,Wet/Damp,None,None,Yes,E01013136
+2014160C00751,474390,423107,-0.874713,53.699104,3,2,2,07:24,Single carriageway,30,Giveway or uncontrolled,Daylight: Street light present,Fine without high winds,Frost/Ice,None,None,Yes,E01013002
+2014160C00771,496606,426845,-0.537154,53.729059,3,2,1,16:36,Single carriageway,30,Giveway or uncontrolled,Daylight: Street light present,Raining with high winds,Wet/Damp,None,None,Yes,E01013092
+2014160C00841,504808,439878,-0.408454,53.844575,3,2,1,11:28,Single carriageway,30,Giveway or uncontrolled,Daylight: Street light present,Fine without high winds,Dry,None,None,Yes,E01013037
+2014160C01161,503707,439174,-0.425419,53.83847,3,2,2,14:42,Single carriageway,30,Giveway or uncontrolled,Daylight: Street light present,Fine without high winds,Dry,None,None,Yes,E01013041
+2014160D00951,512938,431356,-0.288063,53.76631,3,2,1,06:49,Single carriageway,30,Automatic traffic signal,Daylight: Street light present,Fine without high winds,Dry,None,None,Yes,E01012827
+2014160D00961,508861,428651,-0.35084,53.742874,3,1,1,16:20,Single carriageway,30,Automatic traffic signal,Darkness: Street lights present and lit,Fine without high winds,Wet/Damp,None,None,Yes,E01012855
+2014170M10254,448848,519836,-1.24592,54.571404,3,2,1,15:00,Single carriageway,20,Giveway or uncontrolled,Daylight: Street light present,Raining with high winds,Wet/Damp,None,None,Yes,E01012041
+2014170M30314,447185,515044,-1.272408,54.5285,3,2,1,15:16,Dual carriageway,70,0,Daylight: Street light present,Raining without high winds,Wet/Damp,None,None,Yes,E01032553
+2014170S10404,444064,519506,-1.319963,54.568877,3,2,1,12:55,Single carriageway,30,Giveway or uncontrolled,Daylight: Street light present,Fine without high winds,Wet/Damp,None,None,Yes,E01012254
+2014170S40444,442839,511498,-1.340071,54.497019,3,2,1,12:18,Single carriageway,50,Giveway or uncontrolled,Daylight: Street light present,Fine without high winds,Wet/Damp,None,None,Yes,E01012235
+201420G002014,389360,299850,-2.158526,52.596311,3,2,1,08:35,Single carriageway,30,Giveway or uncontrolled,Daylight: Street light present,Fine without high winds,Dry,None,None,Yes,E01010523
+201420G002284,392600,299310,-2.110681,52.591511,2,1,1,18:30,Dual carriageway,30,Giveway or uncontrolled,Darkness: Street lights present and lit,Other,Wet/Damp,None,None,No,E01010472
+201420G002534,388440,299200,-2.172086,52.590449,2,2,1,23:15,Single carriageway,30,Giveway or uncontrolled,Darkness: Street lights present and lit,Raining with high winds,Wet/Damp,None,None,Yes,E01010547
+201420J003644,393050,286430,-2.103765,52.475725,3,2,1,15:50,Single carriageway,30,Giveway or uncontrolled,Daylight: Street light present,Fine without high winds,Dry,None,None,No,E01009864
+201420K002994,399330,291920,-2.011317,52.525126,2,1,1,17:00,Single carriageway,30,0,Darkness: Street lights present and lit,Raining with high winds,Wet/Damp,None,None,No,E01032887
+201420M002464,434660,282540,-1.491555,52.439706,2,1,1,11:41,Single carriageway,30,0,Daylight: Street light present,Raining without high winds,Wet/Damp,None,None,Yes,E01009564
+201420M002764,433790,281620,-1.504446,52.431489,3,3,1,18:30,Single carriageway,30,Giveway or uncontrolled,Darkness: Street lights present and lit,Raining without high winds,Wet/Damp,None,None,Yes,E01009566
+201420S013114,406970,280590,-1.898941,52.423225,3,2,1,15:00,Single carriageway,30,0,Daylight: Street light present,Fine without high winds,Wet/Damp,None,None,Yes,E01008967
+201420T038554,407780,283990,-1.886951,52.45378,2,1,2,11:00,Single carriageway,30,Giveway or uncontrolled,Daylight: Street light present,Raining without high winds,Wet/Damp,None,None,No,E01009384
+201420W012454,406520,290040,-1.905377,52.508187,3,1,1,18:23,Single carriageway,30,Giveway or uncontrolled,Darkness: Street lights present and lit,Other,Wet/Damp,None,None,Yes,E01009062
+201420Z000884,402310,294890,-1.967374,52.551822,3,1,1,20:00,Dual carriageway,70,0,Darkness: Street lighting unknown,Raining without high winds,Wet/Damp,None,None,No,E01009969
+201420Z000904,414050,290160,-1.794426,52.509125,3,2,1,10:25,Dual carriageway,70,0,Daylight: Street light present,Raining with high winds,Wet/Damp,None,None,Yes,E01009101
+201420Z000914,400510,296280,-1.993919,52.564323,3,2,1,19:06,Dual carriageway,70,0,Darkness: Street lights present and lit,Fine with high winds,Wet/Damp,None,None,Yes,E01010336
+201422C400587,389050,263060,-2.161886,52.265556,2,1,1,08:30,Single carriageway,30,0,Daylight: Street light present,Raining without high winds,Wet/Damp,None,None,Yes,E01032357
+201422D400593,409100,277160,-1.867711,52.392357,2,1,1,19:17,Single carriageway,30,Giveway or uncontrolled,Darkness: Street lights present and lit,Raining with high winds,Wet/Damp,None,Other object in carriageway,Yes,E01032146
+201422D400680,397730,270400,-2.034748,52.331652,3,1,1,17:30,Dual carriageway,70,0,Darkeness: No street lighting,Raining with high winds,Wet/Damp,None,None,Yes,E01033059
+201422E400565,349340,238390,-2.740049,52.041544,2,1,1,19:24,Single carriageway,30,0,Darkness: Street lights present and lit,Raining with high winds,Wet/Damp,None,None,Yes,E01013996
+201422E400822,376500,240280,-2.344199,52.060358,3,2,1,18:35,Single carriageway,60,0,Darkness: Street lights present and lit,Fine without high winds,Wet/Damp,None,None,Yes,E01032218
+201422F400683,330950,332970,-3.027748,52.889711,3,2,1,18:25,Single carriageway,30,Giveway or uncontrolled,Darkness: Street lights present and lit,Raining without high winds,Wet/Damp,None,None,No,E01028910
+201422G400676,369740,310390,-2.449147,52.69032,3,4,2,15:41,Single carriageway,30,0,Daylight: Street light present,Raining without high winds,Wet/Damp,None,None,Yes,E01014151
+201423N025210,432264,297150,-1.525389,52.571193,3,2,1,06:53,Roundabout,50,Giveway or uncontrolled,Daylight: Street light present,Fine without high winds,Wet/Damp,None,None,Yes,E01031014
+201423N025211,419597,291740,-1.712604,52.523159,3,2,1,08:45,Single carriageway,30,Giveway or uncontrolled,Daylight: Street light present,Fine without high winds,Dry,None,None,Yes,E01031023
+201423N065260,425920,285602,-1.619889,52.467716,3,3,3,15:24,Dual carriageway,70,0,Daylight: Street light present,Fine without high winds,Wet/Damp,None,None,Yes,E01031028
+201423S030171,428475,240582,-1.586066,52.062849,3,2,1,16:35,Single carriageway,50,0,Darkeness: No street lighting,Fine with high winds,Wet/Damp,None,None,Yes,E01031193
+201423S030172,425860,240253,-1.624234,52.060019,3,1,1,17:19,Single carriageway,30,Giveway or uncontrolled,Daylight: Street light present,Fine with high winds,Wet/Damp,None,None,Yes,E01031215
+201423S030288,425030,243282,-1.636119,52.087289,3,2,2,11:45,Single carriageway,60,0,Daylight: Street light present,Raining without high winds,Wet/Damp,None,None,No,E01031245
+201431B038514,463759,360944,-1.04827,53.141822,3,3,1,08:40,Single carriageway,60,Giveway or uncontrolled,Daylight: Street light present,Raining without high winds,Wet/Damp,None,None,No,E01028295
+201431B041514,455598,377080,-1.167454,53.287766,2,3,2,06:11,Single carriageway,60,0,Darkness: Street lights present and lit,Other,Frost/Ice,None,None,Yes,E01028063
+201431B044114,464488,361048,-1.037353,53.142669,3,2,1,16:51,Single carriageway,30,Giveway or uncontrolled,Daylight: Street light present,Raining with high winds,Wet/Damp,None,None,Yes,E01028297
+201431B082314,478140,352412,-0.835393,53.06323,3,1,1,15:31,Roundabout,60,Giveway or uncontrolled,Daylight: Street light present,Fine without high winds,Dry,None,None,Yes,E01033394
+201431B208614,472463,370634,-0.915976,53.227799,3,2,1,17:26,Single carriageway,60,0,Daylight: Street light present,Raining with high winds,Wet/Damp,None,None,No,E01028037
+201431C021114,454079,345411,-1.195575,53.003274,3,2,1,18:27,Single carriageway,30,0,Darkness: Street lights present and lit,Fine with high winds,Dry,None,None,Yes,E01013885
+201431C026814,451462,342880,-1.234971,52.980781,3,2,1,07:26,Single carriageway,40,0,Daylight: Street light present,Raining without high winds,Wet/Damp,None,None,Yes,E01013864
+201431C037714,455731,341148,-1.171693,52.964787,3,2,2,18:00,Single carriageway,30,0,Darkness: Street lights present and lit,Fine without high winds,Dry,None,None,No,E01013811
+201431C037914,455874,340844,-1.169616,52.96204,2,1,1,18:00,Single carriageway,30,Giveway or uncontrolled,Darkness: Street lights present and lit,Fine with high winds,Wet/Damp,None,None,No,E01013814
+201431C063714,457825,339782,-1.140763,52.952288,3,3,1,11:56,One way street,30,Automatic traffic signal,Daylight: Street light present,Fine without high winds,Dry,None,None,Yes,E01033407
+201431D025414,457524,344883,-1.144337,52.99817,2,2,1,16:46,Single carriageway,30,Giveway or uncontrolled,Darkness: Street lights present and lit,Raining without high winds,Wet/Damp,None,None,Yes,E01028167
+201431D030614,452444,336055,-1.221449,52.919339,3,2,1,09:15,Single carriageway,30,Giveway or uncontrolled,Daylight: Street light present,Fine without high winds,Dry,None,None,No,E01028096
+201432B053914,537834,344229,0.051427,52.977669,1,2,2,09:50,Single carriageway,60,0,Daylight: Street light present,Fine without high winds,Wet/Damp,Road surface defective,Other object in carriageway,Yes,E01026008
+201432B056114,532475,343151,-0.028778,52.969334,2,1,1,20:23,Single carriageway,40,0,Darkness: Street lights present and lit,Raining without high winds,Wet/Damp,None,None,Yes,E01026006
+201432B056214,531384,339444,-0.046515,52.936298,3,3,2,18:27,Single carriageway,60,0,Darkness: Street lights present and lit,Raining with high winds,Wet/Damp,None,None,Yes,E01026018
+201432B058814,521300,322012,-0.20296,52.782041,3,3,1,11:00,Single carriageway,50,Giveway or uncontrolled,Daylight: Street light present,Unknown,Dry,None,None,No,E01026259
+201432B066414,543187,322973,0.12175,52.785317,3,1,1,12:20,Single carriageway,30,Giveway or uncontrolled,Daylight: Street light present,Raining with high winds,Wet/Damp,None,None,Yes,E01026255
+201432L059114,497358,378183,-0.540859,53.291661,3,3,5,11:01,Single carriageway,50,0,Daylight: Street light present,Fine without high winds,Wet/Damp,None,None,Yes,E01026400
+201432L059714,490066,391479,-0.646442,53.412431,2,1,1,13:29,Single carriageway,60,0,Daylight: Street light present,Fine without high winds,Dry,None,None,Yes,E01026385
+201432L059914,496383,371672,-0.557452,53.23333,3,2,1,08:48,Single carriageway,30,Giveway or uncontrolled,Daylight: Street light present,Fine without high winds,Dry,None,None,Yes,E01026144
+201432N056814,514314,309824,-0.310729,52.674044,3,2,1,06:35,Single carriageway,30,Authorised person,Darkness: Street lights present and lit,Raining with high winds,Wet/Damp,None,None,No,E01026335
+201432N057014,506277,346816,-0.417505,53.008095,3,2,1,05:26,Single carriageway,30,Giveway or uncontrolled,Darkness: Street lights present and lit,Fine without high winds,Wet/Damp,None,None,Yes,E01026229
+201434NC03994,487079,289201,-0.718827,52.493746,2,1,1,19:20,Single carriageway,30,Giveway or uncontrolled,Darkness: Street lights present and lit,Raining without high winds,Wet/Damp,None,None,Yes,E01026973
+201434NK04074,487781,277402,-0.711587,52.387585,3,2,1,16:00,Single carriageway,30,0,Daylight: Street light present,Fine without high winds,Wet/Damp,None,None,No,E01027099
+201434WS03754,477354,239772,-0.873359,52.050908,3,2,1,17:35,Roundabout,40,Giveway or uncontrolled,Darkness: Street lights present and lit,Fine without high winds,Wet/Damp,None,None,No,E01027280
+201434WS03954,450428,232616,-1.267034,51.989674,3,2,2,23:08,Dual carriageway,70,0,Darkeness: No street lighting,Raining with high winds,Wet/Damp,None,None,Yes,E01027290
+201437EA78193,655309,293896,1.758797,52.48316,3,2,1,14:30,Single carriageway,30,0,Daylight: Street light present,Raining with high winds,Wet/Damp,None,None,Yes,E01030247
+201437EA78208,617128,245658,1.166447,52.066667,2,1,1,08:25,Single carriageway,30,Giveway or uncontrolled,Daylight: Street light present,Fine without high winds,Dry,None,None,Yes,E01030011
+201437EA78248,608059,260461,1.043388,52.203047,3,2,2,18:45,Single carriageway,30,Giveway or uncontrolled,Darkeness: No street lighting,Raining with high winds,Wet/Damp,None,None,Yes,E01030081
+201437EA78349,618583,242765,1.18579,52.040125,3,2,1,14:30,Single carriageway,30,Giveway or uncontrolled,Daylight: Street light present,Raining without high winds,Wet/Damp,None,None,Yes,E01029983
+201437EA79321,619143,245171,1.195484,52.061502,3,1,1,15:30,Single carriageway,40,Automatic traffic signal,Daylight: Street light present,Raining without high winds,Wet/Damp,None,None,Yes,E01029964
+2014404CA0159,505943,222162,-0.462011,51.887912,3,3,1,22:50,Single carriageway,40,0,Darkness: Street lights present and lit,Raining with high winds,Wet/Damp,None,None,Yes,E01015728
+2014404DA0127,492340,224947,-0.658862,51.915363,3,2,1,13:00,Single carriageway,20,Giveway or uncontrolled,Daylight: Street light present,Raining without high winds,Wet/Damp,None,None,No,E01017555
+2014404DA0139,499649,224309,-0.552814,51.90837,3,2,1,17:15,Dual carriageway,70,Giveway or uncontrolled,Daylight: Street light present,Raining with high winds,Wet/Damp,None,None,Yes,E01017578
+2014404DA0150,515642,237694,-0.315919,52.025574,3,2,1,10:30,Single carriageway,60,Giveway or uncontrolled,Daylight: Street light present,Fine without high winds,Dry,None,None,No,E01017392
+20144100A0091,538400,223260,0.009771,51.890672,3,2,1,12:30,Dual carriageway,70,0,Daylight: Street light present,Raining with high winds,Wet/Damp,None,None,Yes,E01023498
+20144100A0126,548860,221010,0.16069,51.867764,2,1,1,20:12,Single carriageway,30,Automatic traffic signal,Darkness: Street lights present and lit,Fine without high winds,Wet/Damp,None,None,Yes,E01023446
+20144100B0149,527320,207080,-0.15709,51.74791,3,2,1,10:30,Single carriageway,60,0,Daylight: Street light present,Raining without high winds,Wet/Damp,None,None,Yes,E01023925
+20144100C0165,509610,199750,-0.415823,51.685771,3,2,1,09:05,Single carriageway,30,Giveway or uncontrolled,Daylight: Street light present,Raining with high winds,Wet/Damp,None,None,No,E01023907
+20144100C0183,509960,199900,-0.410714,51.68705,3,1,1,13:45,Dual carriageway,50,0,Daylight: Street light present,Raining without high winds,Wet/Damp,None,None,Yes,E01023891
+20144100C0194,510990,200410,-0.395659,51.691432,2,2,1,18:47,Roundabout,50,Giveway or uncontrolled,Darkness: Street lights present and lit,Fine without high winds,Wet/Damp,None,None,Yes,E01023893
+20144100F0097,519030,203520,-0.278333,51.717737,3,1,1,01:45,Roundabout,60,Giveway or uncontrolled,Darkness: Street lights present and lit,Fine without high winds,Wet/Damp,None,None,Yes,E01023583
+20144100G0064,513050,226770,-0.357276,51.927931,1,2,2,14:36,Dual carriageway,70,0,Daylight: Street light present,Raining without high winds,Wet/Damp,None,None,Yes,E01023624
+20144100G0113,518420,230760,-0.277841,51.962674,3,1,1,09:00,Single carriageway,30,0,Daylight: Street light present,Raining with high winds,Wet/Damp,None,None,No,E01023604
+201442I050802,566836,201587,0.412218,51.6882,3,1,2,22:33,Single carriageway,40,0,Darkeness: No street lighting,Raining with high winds,Wet/Damp,None,None,Yes,E01021602
+201442I051102,568508,189294,0.430471,51.577269,3,1,1,13:55,Dual carriageway,30,0,Daylight: Street light present,Raining without high winds,Wet/Damp,None,None,Yes,E01021279
+201442I051602,588957,223325,0.743699,51.876425,3,1,2,19:56,Single carriageway,60,0,Darkness: Street lights present but unlit,Raining with high winds,Wet/Damp,None,None,Yes,E01021677
+201442I051702,601105,227500,0.922375,51.909669,3,2,2,08:08,Single carriageway,30,Giveway or uncontrolled,Daylight: Street light present,Fine without high winds,Wet/Damp,None,None,Yes,E01021670
+201442I051802,600251,224779,0.908397,51.885543,2,1,1,18:40,Single carriageway,30,0,Darkness: Street lights present and lit,Raining with high winds,Wet/Damp,None,None,Yes,E01021686
+201442I051902,601873,228880,0.934333,51.921783,3,1,2,18:38,Dual carriageway,70,Giveway or uncontrolled,Darkeness: No street lighting,Raining with high winds,Wet/Damp,None,Other object in carriageway,Yes,E01033720
+201442I052102,587286,185868,0.699341,51.540577,3,2,1,15:05,Single carriageway,30,0,Daylight: Street light present,Raining with high winds,Wet/Damp,None,Other object in carriageway,Yes,E01015855
+201442I052402,547584,207036,0.136226,51.742547,3,2,2,15:15,Dual carriageway,30,Giveway or uncontrolled,Daylight: Street light present,Fine without high winds,Wet/Damp,None,None,No,E01021768
+201442I054902,542696,199400,0.062353,51.675199,3,2,1,18:10,Roundabout,40,Giveway or uncontrolled,Darkness: Street lighting unknown,Raining with high winds,Wet/Damp,None,None,No,E01021806
+201442I056702,579026,186715,0.580791,51.550864,3,1,1,19:10,Single carriageway,30,Giveway or uncontrolled,Darkness: Street lights present and lit,Fine with high winds,Wet/Damp,None,None,Yes,E01021483
+201442I057302,572890,189061,0.493533,51.57385,3,1,1,19:16,Dual carriageway,50,Giveway or uncontrolled,Darkness: Street lights present and lit,Raining without high winds,Wet/Damp,None,None,Yes,E01021306
+201442I057702,563960,189451,0.364969,51.58002,3,2,1,08:33,Slip road,70,Giveway or uncontrolled,Daylight: Street light present,Fine without high winds,Wet/Damp,None,None,Yes,E01021446
+201442I059202,593143,184972,0.783204,51.530558,3,2,1,17:10,Single carriageway,30,Giveway or uncontrolled,Darkness: Street lights present and lit,Fine with high winds,Wet/Damp,None,None,Yes,E01015918
+201442I066502,584674,186556,0.662079,51.547617,3,1,1,11:06,Single carriageway,30,Giveway or uncontrolled,Daylight: Street light present,Raining without high winds,Wet/Damp,None,None,Yes,E01015821
+201442I087502,569412,206910,0.452034,51.735247,3,1,1,15:31,Single carriageway,30,Giveway or uncontrolled,Daylight: Street light present,Raining without high winds,Wet/Damp,None,None,No,E01021632
+201443N108024,491516,185020,-0.681328,51.556599,3,2,1,13:51,Single carriageway,60,Giveway or uncontrolled,Daylight: Street light present,Raining with high winds,Wet/Damp,None,None,Yes,E01017833
+201443N116024,484257,192035,-0.784328,51.62079,3,2,1,07:00,Single carriageway,30,Giveway or uncontrolled,Darkness: Street lights present and lit,Raining without high winds,Wet/Damp,None,None,No,E01017844
+201443N188024,491882,189858,-0.674786,51.600029,2,1,1,18:28,Single carriageway,50,0,Darkeness: No street lighting,Raining with high winds,Wet/Damp,None,Other object in carriageway,Yes,E01017801
+201443P115024,451079,206078,-1.261473,51.751029,3,1,1,12:10,Single carriageway,20,Giveway or uncontrolled,Daylight: Street light present,Raining without high winds,Wet/Damp,None,None,No,E01028521
+201443P119024,450080,188796,-1.278417,51.595743,3,2,1,09:20,Dual carriageway,70,0,Daylight: Street light present,Raining with high winds,Wet/Damp,None,None,Yes,E01028727
+201443P127024,450018,196718,-1.278182,51.666973,3,2,4,16:00,Single carriageway,30,0,Daylight: Street light present,Raining with high winds,Wet/Damp,None,None,Yes,E01028658
+201443P128024,462820,192651,-1.093824,51.629126,2,2,3,22:09,Single carriageway,50,0,Darkeness: No street lighting,Raining with high winds,Wet/Damp,None,Other object in carriageway,Yes,E01028600
+201443P141024,445013,210330,-1.34879,51.789777,3,2,1,11:29,Single carriageway,60,Automatic traffic signal,Daylight: Street light present,Raining without high winds,Wet/Damp,None,None,Yes,E01028788
+201443P143024,451162,203618,-1.260632,51.728905,3,4,3,17:10,Dual carriageway,70,0,Daylight: Street light present,Fine with high winds,Wet/Damp,None,None,Yes,E01028733
+201443P146024,452477,205864,-1.241255,51.748976,2,2,1,18:00,Single carriageway,20,0,Darkness: Street lights present and lit,Fine without high winds,Dry,None,None,No,E01028588
+201443P162024,462988,197330,-1.090556,51.671173,3,2,3,14:45,Single carriageway,30,0,Daylight: Street light present,Raining without high winds,Wet/Damp,None,None,Yes,E01028610
+201443P176024,450708,207122,-1.266695,51.760449,2,1,1,15:08,Single carriageway,20,Giveway or uncontrolled,Daylight: Street light present,Fine without high winds,Dry,None,None,Yes,E01033282
+201443R080024,498238,178449,-0.586227,51.496404,3,2,1,18:18,Dual carriageway,70,0,Darkness: Street lights present and lit,Raining with high winds,Wet/Damp,None,None,Yes,E01016565
+201443R081024,498688,180619,-0.57914,51.515832,3,1,1,08:37,Roundabout,30,Giveway or uncontrolled,Daylight: Street light present,Raining without high winds,Wet/Damp,None,None,Yes,E01016460
+201443R083024,486669,168076,-0.755379,51.405045,2,1,1,19:53,Single carriageway,30,0,Darkness: Street lights present and lit,Raining with high winds,Wet/Damp,None,None,Yes,E01016233
+201443W212024,471838,171395,-0.967889,51.436954,3,2,1,07:09,Single carriageway,30,Giveway or uncontrolled,Daylight: Street light present,Fine without high winds,Dry,None,None,Yes,E01016377
+201450CI2R002,252385,146846,-4.114345,51.201651,3,2,1,17:23,Single carriageway,30,Giveway or uncontrolled,Darkness: Street lights present and lit,Raining with high winds,Wet/Damp,None,None,Yes,E01020117
+201450CT2E001,246350,122115,-4.190136,50.977834,3,1,1,13:57,Single carriageway,60,0,Daylight: Street light present,Raining without high winds,Wet/Damp,None,None,Yes,E01020296
+201450FP2C004,288727,60645,-3.568221,50.435009,3,2,1,17:52,One way street,30,Giveway or uncontrolled,Daylight: Street light present,Raining without high winds,Wet/Damp,None,None,Yes,E01015231
+201450JG3H005,293136,72232,-3.509477,50.539997,3,1,1,08:38,Single carriageway,30,Giveway or uncontrolled,Daylight: Street light present,Raining without high winds,Wet/Damp,None,None,Yes,E01020260
+201450JS2H002,275456,59721,-3.754696,50.424035,1,1,1,13:47,Single carriageway,60,0,Daylight: Street light present,Raining with high winds,Wet/Damp,None,None,Yes,E01020143
+201450JS2L001,269888,59227,-3.832868,50.418386,3,1,1,09:44,Dual carriageway,70,0,Daylight: Street light present,Raining with high winds,Wet/Damp,None,None,Yes,E01020176
+201450KC2E001,272647,108054,-3.810844,50.857874,3,1,1,16:38,Single carriageway,50,0,Daylight: Street light present,Raining with high winds,Wet/Damp,None,None,Yes,E01020073
+201450KH2B004,320672,106089,-3.128254,50.848799,3,1,1,21:09,Single carriageway,50,0,Darkeness: No street lighting,Raining with high winds,Wet/Damp,None,None,Yes,E01019938
+201450KO2R001,294212,98574,-3.501832,50.777004,3,1,1,00:30,Single carriageway,30,0,Darkness: Street lights present and lit,Raining with high winds,Wet/Damp,None,None,Yes,E01019903
+2014554C06283,408790,91570,-1.876857,50.723622,3,1,2,03:00,Slip road,30,Giveway or uncontrolled,Darkness: Street lights present and lit,Fine without high winds,Dry,None,None,Yes,E01015283
+2014554C06309,406390,94080,-1.910815,50.746225,2,1,1,10:35,Roundabout,30,Giveway or uncontrolled,Daylight: Street light present,Raining with high winds,Wet/Damp,None,None,Yes,E01015383
+2014554C06339,401770,92290,-1.976307,50.73016,3,2,1,13:15,Single carriageway,30,Automatic traffic signal,Daylight: Street light present,Raining without high winds,Wet/Damp,None,None,Yes,E01015446
+2014554C06351,413210,93630,-1.814166,50.742064,3,2,1,11:50,Single carriageway,30,Giveway or uncontrolled,Daylight: Street light present,Fine without high winds,Dry,None,None,No,E01015316
+2014554C06755,403580,92730,-1.950657,50.734109,3,2,1,15:15,Single carriageway,30,0,Daylight: Street light present,Raining with high winds,Wet/Damp,None,None,No,E01015439
+2014554D06291,413120,104520,-1.815055,50.839997,3,2,2,08:17,Single carriageway,40,Giveway or uncontrolled,Daylight: Street light present,Raining with high winds,Wet/Damp,None,None,Yes,E01020403
+2014554D06350,397200,93600,-2.041069,50.741936,2,1,1,14:18,Dual carriageway,70,0,Daylight: Street light present,Raining with high winds,Flood (Over 3cm of water),None,None,Yes,E01020475
+2014554D06596,368300,88600,-2.450219,50.696109,3,2,1,15:51,Single carriageway,60,0,Daylight: Street light present,Raining without high winds,Wet/Damp,None,None,Yes,E01020549
+201460R022785,295724,347433,-3.555798,53.013995,3,2,3,13:30,Single carriageway,60,Giveway or uncontrolled,Daylight: Street light present,Raining without high winds,Wet/Damp,None,None,Yes,W01000190
+201460R022851,253092,371561,-4.201886,53.22072,3,2,1,15:05,Single carriageway,30,0,Daylight: Street light present,Raining with high winds,Wet/Damp,None,None,Yes,W01000015
+201460R022971,332132,367370,-3.017438,53.199045,3,2,3,18:31,Single carriageway,30,Giveway or uncontrolled,Darkness: Street lights present and lit,Raining without high winds,Wet/Damp,None,None,Yes,W01000312
+201460R023034,302512,380849,-3.464844,53.315557,3,1,1,20:50,Single carriageway,30,0,Darkness: Street lights present and lit,Raining without high winds,Wet/Damp,None,None,Yes,W01000234
+201460R023053,298868,380236,-3.519327,53.309365,3,2,1,21:20,Single carriageway,30,Giveway or uncontrolled,Darkness: Street lights present and lit,Raining with high winds,Wet/Damp,None,None,Yes,W01000150
