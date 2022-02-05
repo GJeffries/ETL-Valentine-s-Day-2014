@@ -9,6 +9,7 @@ With the use of relational database SQL, this investigation will look into the p
 
 
 The process of collecting the API weather data:
+
 To collect the weather data of the locations obtained from accident_cities.csv, the use of an API was essential to extract the data needed into a Pandas DataFrame. Our source of information was derived from visualcrossing.com where we received an API key to make requests and load JSONs from our API responses. It was necessary to build a query that would reduce the amount of information to fit the criteria required using the url, cities and API key. From there, we requested a query for each city using a FOR loop; this would loop through the list of cities via their index. Also, to make sure that the loop was functioning correctly for each city, the index was set to 0 and once the kernel had reached the end of the loop, it would restart for the next city (index += 1). Within the loop, the desired data was appended with empty list variables and ultimately extracted into a Pandas DataFrame. The DataFrame was converted to a CSV file with a parameter that would drop the index (index=False) in order for it to be imported into the final SQL database.
 
 Using relation database SQL, it was identified that there was a correlation between… 
